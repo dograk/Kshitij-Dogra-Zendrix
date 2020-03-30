@@ -1,0 +1,12 @@
+C:\Users\kadogra\Downloads\devops\Module_02_Version_Control_System\Assignment\Assignment>git log --graph --pretty
+* commit ab013ab149e0830f70697d03c613c25a59762922 (HEAD -> master, origin/master, origin/PROD, origin/DEV, PROD, DEV)
+| Author: Kshitij <kshitij.dogra@vale.com>
+| Date:   Sun Mar 29 20:47:01 2020 -0400
+|
+|     Instered README.md file with some important document details
+|
+* commit bb31db9a1f8aa7e086c531f2442c3680a435d7d8
+  Author: Kshitij <kshitij.dogra@vale.com>
+  Date:   Sun Mar 29 20:39:15 2020 -0400
+
+      First Commit – Adding README.md
